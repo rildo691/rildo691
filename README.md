@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 ### Olá! Eu sou o Rildo Franco
 
