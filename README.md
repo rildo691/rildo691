@@ -1,9 +1,8 @@
-### Hi there! 👋
 
-### Olá! Eu sou o Rildo Franco
+### Hi there! 👋! My name is Rildo Franco
 
 
-- 🔭 Apaixonado por tecnologia
+- 🔭 Passionate about technology.
 - 🌱 Student of Computer Science at NOVA FCT (Lisbon)
 <div align="center">
   <a href="https://github.com/rildo691">
